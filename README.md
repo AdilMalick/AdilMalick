@@ -62,7 +62,7 @@ Building secure, production-style web systems and end-to-end data/ML projects �
 
 | Project | Stack | Description |
 |---|---|---|
-| 🏪 [Smart Salon Management System](https://github.com/AdilMalick/Smart-Saloon-Management-System-ERP-) | PHP · MySQL · Bootstrap · AJAX | Full-stack ERP with RBAC, session-based auth, and a conflict-free appointment engine (real-time slot-overlap checks). Built end-to-end during a 1-month internship. |
+| 🏪 [Smart Salon Management System](https://github.com/AdilMalick/Smart-Salon-Management-System-ERP) | PHP · MySQL · Bootstrap · AJAX | Full-stack ERP with RBAC, session-based auth, and a conflict-free appointment engine (real-time slot-overlap checks). Built end-to-end during a 1-month internship. |
 | 📚 [Library Management System](https://github.com/AdilMalick/LibraryManagementSystem) | SQL Server · T-SQL | Normalized relational schema with parameterized stored procedures and triggers for automated audit logging. |
 | 💬 [Client-Server Chat Application](https://github.com/AdilMalick/CLIENT-SERVER-CHAT-APP) | Python · Sockets | Academic project demonstrating real-time client-server communication using socket programming. |
 
