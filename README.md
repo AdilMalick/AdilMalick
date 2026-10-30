@@ -70,7 +70,7 @@ Building secure, production-style web systems and end-to-end data/ML projects �
 
 | Project | Stack | Description |
 |---|---|---|
-| 🚗 [Pakistan Auto Market Forecasting](https://github.com/AdilMalick/Pakistan-Auto-Market-Forecasting) | Python · XGBoost · Pandas | 10-year sales forecasting model with a chronological train/test split — achieved **9.36% MAPE** on total market sales. |
+| 🚗 [Pakistan Auto Market Forecasting](https://github.com/AdilMalick/AUTO_MARKET_SALES_FORCASTING) | Python · XGBoost · Pandas | 10-year sales forecasting model with a chronological train/test split — achieved **9.36% MAPE** on total market sales. |
 | 🧪 [AI Data Lab — No-Code ML Platform](https://github.com/AdilMalick/NO_CODE_AI_DATA_LAB) | Python · Streamlit · Scikit-Learn | No-code platform integrating 15 models across regression, classification, and anomaly detection, with automated EDA and dashboards. |
 | 🛡️ [Network Intrusion Anomaly Detection (Prototype)](https://github.com/AdilMalick/AI_IDS_IPS) | Python · Isolation Forest | Proof-of-concept using Isolation Forest to flag abnormal network traffic, with threat scoring and tamper-evident logging. |
 
